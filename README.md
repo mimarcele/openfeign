@@ -11,4 +11,5 @@
   - Cmder
 
   ##Tecnologias 
-  - Spring Boot
+  - Java11
+  - OpenFeign
