@@ -1,3 +1,5 @@
 # openfeign
    ## 📰Sobre:
-   API teste para estudo inical da tecnologia openfeign   
+   API teste para estudo inical da tecnologia Spring Cloud OpenFeign.
+  
+   
