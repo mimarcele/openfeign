@@ -3,9 +3,9 @@
    API teste para estudo inical da tecnologia Spring Cloud OpenFeign.
    
    ## 🛠Ferramentas:
-   -Intellij
-   -Postman
-   -Cmder
+   - Intellij
+   - Postman
+   - Cmder
    
    ## 🎮Tecnologias:
   - Java11
